@@ -4,3 +4,4 @@ HelloWorld Servlet example with corresponding Dockerfile
 today is monday
 today is saturday
 today is friday
+today is good friday
