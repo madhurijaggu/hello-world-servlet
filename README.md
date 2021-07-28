@@ -7,3 +7,4 @@ today is friday
 today is good friday
 16/07/21
 123
+12345
